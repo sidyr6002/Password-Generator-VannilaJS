@@ -1,3 +1,13 @@
+/**
+ * Generate a random password based on the specified criteria.
+ *
+ * @param {number} length - The length of the password
+ * @param {boolean} hasLower - Whether to include lowercase characters in the password
+ * @param {boolean} hasUpper - Whether to include uppercase characters in the password
+ * @param {boolean} hasNumber - Whether to include numeric characters in the password
+ * @param {boolean} hasSymbol - Whether to include special symbol characters in the password
+ * @return {string} The generated password
+ */
 export const generatePassword = (length = 12, hasLower = true, hasUpper = true, hasNumber = true, hasSymbol = true) => {
     let allChars = '';
     

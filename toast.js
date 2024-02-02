@@ -1,3 +1,9 @@
+/**
+ * Shows a toast message with the given text and hides it after a certain duration.
+ *
+ * @param {string} toastText - The text to be displayed in the toast message
+ * @return {void} 
+ */
 export const showToast = (toastText) => {
     const toastElement = document.getElementById("toast");
     console.log(
