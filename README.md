@@ -9,6 +9,7 @@ A simple password generator with customizable options for creating strong and se
 - [Usage](#usage)
 - [Installation](#installation)
 - [Customization](#customization)
+- [License](#license)
 
 ## Introduction
 
@@ -42,3 +43,7 @@ After cloning, simply open the index.html file in your web browser to start usin
 
 Feel free to customize the project according to your preferences. You can modify the styles, add new features, or enhance the user interface.
 If you make any improvements or bug fixes, consider contributing back by opening a pull request.
+
+## License 
+
+This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code.
