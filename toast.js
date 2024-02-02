@@ -21,5 +21,5 @@ export const showToast = (toastText) => {
     setTimeout(() => {
         toastElement.classList.remove("visible");
         toastElement.classList.add("hidden");
-    }, 3000);
+    }, 1000);
 }
