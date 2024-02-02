@@ -25,10 +25,10 @@ This project is a password generator that allows users to create strong and secu
 
 To use the password generator:
 
-1. Open the `index.html` file in your preferred web browser.
-2. Adjust the desired options, such as password length, inclusion of lowercase/uppercase letters, numbers, and symbols.
-3. Click the "Generate Password" button to create a new password.
-4. Click the "Copy to Clipboard" button to copy the generated password.
+1. Install the "Live Server" extension in Visual Studio Code (if not already installed).
+2. Open your HTML file in Visual Studio Code.
+3. Right-click anywhere in the HTML file editor.
+4. Choose "Open with Live Server."
 
 ## Installation
 
